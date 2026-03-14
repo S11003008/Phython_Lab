@@ -1,0 +1,12 @@
+
+Social Network Analysis Results
+
+YouTube Network
+Total Edges: 215
+Total Nodes: 82
+Average Degree: 5.2439024390243905
+
+Facebook Network
+Total Edges: 208
+Total Nodes: 74
+Average Degree: 5.621621621621622
